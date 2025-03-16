@@ -1,4 +1,4 @@
-# Anime-data-analysis
+# Anime-dataframe-analysis
 
 <div>
     <h2> Цель проекта: </h2>
